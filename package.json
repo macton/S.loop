@@ -1,0 +1,22 @@
+{
+  "name": "s.loop",
+  "version": "1.0.0",
+  "description": "S.loop - Loop",
+  "main": "s.loop.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macton/S.loop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macton/S.loop/issues"
+  },
+  "homepage": "https://github.com/macton/S.loop#readme",
+  "dependencies": {
+    "s": "macton/S"
+  }
+}
